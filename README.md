@@ -14,4 +14,4 @@ y ahora lo pude hacer :)
 
 este es la dirección de mi pagina:
 
-http://186.64.118.50/~mpemontes/
+http://186.64.118.50/~mpemontes/vegariano/
